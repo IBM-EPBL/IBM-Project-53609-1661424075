@@ -10,7 +10,7 @@ Phishing website is one of the internet security problems that target the human 
 
 ## Model Building:
 
-The Dataset used for the Model building Phase are inserted in the Dataset collection.The dataset are Collected From the various platform.In this Process we are using Various Datasets For Testing And Training Machine Learning.
+The Dataset used for the Model building Phase are inserted in the Dataset collection.The dataset are Collected From the various platform.In this Process we are using Various Datasets For Testing And Training  the Machine Learning algorithm to find the which has the Most occuracy.
 
 ## Project Folder Structure:
       
