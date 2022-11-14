@@ -10,4 +10,11 @@ Phishing website is one of the internet security problems that target the human 
 
 ## Model Building:
 
-The Dataset used for the Model building Phase are inserted in the Dataset collection
+The Dataset used for the Model building Phase are inserted in the Dataset collection.The dataset are Collected From the Internet.
+
+## Project Folder Structure:
+      
+      
+      ![Folder Structure](https://user-images.githubusercontent.com/114421879/201730774-a407400c-98eb-48dc-a4aa-011ea5ff96ce.png)
+
+      
